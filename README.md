@@ -45,11 +45,9 @@ I'm a results-oriented Data & BI Analyst with a strong background in sales, cust
 ---
 
 ## 📫 Let’s Connect
-## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirjamilsuchon)
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/960px-Facebook_logo_%28square%29.png)](https://www.linkedin.com/in/sabbirjamilsuchon/)
-
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png)](https://www.facebook.com/sabbirjamilsuchon)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirjamilsuchon)
 
 - 💻 Open to remote opportunities in **Data & Business Intelligence Analytics**
 
