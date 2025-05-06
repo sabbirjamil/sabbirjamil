@@ -27,10 +27,10 @@ I'm a results-oriented Data & BI Analyst with a strong background in sales, cust
 
 ## ⚙️ Tools & Technologies
 - **Power BI**  
-- **SQL (T-SQL, BigQuery)**  
+- **MySQL**  
 - **DAX**  
 - **Excel (Power Query, Pivot Table)**  
-- **Git & GitHub**  
+- **GitHub**  
 - **PowerPoint** for BI reporting and presentations  
 
 ---
